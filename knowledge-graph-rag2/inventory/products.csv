@@ -1,0 +1,9 @@
+name,stock,reorder_point,price,supplier
+Laptop,15,5,65000.0,Dell
+Mouse,5,10,500.0,Logitech
+Keyboard,2,5,1500.0,HP
+Monitor,8,5,12000.0,Samsung
+USB Cable,25,10,150.0,Anker
+iPhone 15,12,5,79999.0,Apple Inc.
+Charger,3,5,2000.0,Boat
+Headphones,7,5,3500.0,Sony
