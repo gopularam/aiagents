@@ -45,7 +45,7 @@ def load_csv_to_db(conn):
 # -----------------------------
 # AI Setup
 # -----------------------------
-OPENAI_API_KEY ="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"
+OPENAI_API_KEY ="sk-proj"
 
 # OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
